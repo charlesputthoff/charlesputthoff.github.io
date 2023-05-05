@@ -1,0 +1,17 @@
+a {
+    font-style: italic;
+}
+
+.colored-background {
+    background-color: #7993e1;
+  }
+  
+  img{
+    width: 400px;
+    height: auto;
+    border: 1px solid #333;
+  }
+  
+  h1 {
+    color: red;
+  }

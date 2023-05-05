@@ -1,0 +1,14 @@
+strong, li {
+    font-weight: bold;
+    }
+    strong, li {
+    text-decoration: underline;
+    }
+
+ .colored-background {
+    background-color: grey
+    }
+
+    h1 {
+      color: red;
+    }

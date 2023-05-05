@@ -1,0 +1,32 @@
+pre {
+    background-color: #a2a2a2; /* Set background color */
+    padding: 10px; /* Set padding */
+    font-family: "Courier New", monospace; /* Set font family */
+    font-size: 14px; /* Set font size */
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #000;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #9a9999;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #9a9999;
+  }
+  
+  a {
+    font-style: italic;
+  }
+
+  h1 {
+    color: red;
+  }

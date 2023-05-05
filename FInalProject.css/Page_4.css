@@ -1,0 +1,14 @@
+a {
+    font-style: italic;
+  }
+
+  strong, li {
+    font-weight: bold;
+    }
+    strong, li {
+    text-decoration: underline;
+    }
+
+    h1 {
+      color: red;
+    }
